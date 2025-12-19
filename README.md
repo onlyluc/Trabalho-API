@@ -58,12 +58,13 @@ dotnet run
 ### Estrutura do Projeto
 
 ApiEmpresarial/
-├── Controllers/      # Endpoints REST (EmpresasController, FuncionariosController)
-├── DTOs/             # Objetos de transferência (CreateEmpresaDto, FuncionarioDto, etc.)
-├── Models/           # Entidades de domínio (Empresa, Funcionario)
-├── Data/             # DbContext e configurações do EF Core
-├── Services/         # Lógica de negócio e validações
-├── appsettings.json  # Configurações (conexão com BD)
-└── Program.cs        # Configuração da aplicação
+|-----------------------------------------------------------------------------------------|
+├── Controllers/      |# Endpoints REST (EmpresasController, FuncionariosController) |
+├── DTOs/             |# Objetos de transferência (CreateEmpresaDto, FuncionarioDto, etc.)|
+├── Models/           |# Entidades de domínio (Empresa, Funcionario)|
+├── Data/             |# DbContext e configurações do EF Core|
+├── Services/         |# Lógica de negócio e validações|
+├── appsettings.json  |# Configurações (conexão com BD)|
+└── Program.cs        |# Configuração da aplicação|
 
 
