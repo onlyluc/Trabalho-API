@@ -23,7 +23,7 @@ A API permite:
 
 | Categoria | Tecnologia |
 |----------|------------|
-| Linguagem | C# 12 (.NET 8) |
+| Linguagem | C# (.NET 8) |
 | Framework | ASP.NET Core Web API |
 | Banco de Dados | MySQL 8.0.44 (via Docker) |
 | ORM | Entity Framework Core + Pomelo.EntityFrameworkCore.MySql |
