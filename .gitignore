@@ -1,0 +1,20 @@
+﻿# .gitignore
+
+# Pastas de build
+bin/
+obj/
+.vs/
+.vscode/
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.json.user
+
+# Arquivos temporários
+*.user
+*.suo
+*.swp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
