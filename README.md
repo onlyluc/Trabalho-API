@@ -1,8 +1,8 @@
 # 🏢 API de Empresas e Funcionários
 
-> Trabalho acadêmico da disciplina **Arquitetura e Desenvolvimento de API**  
-> Aluno: Lucas dos Santos Silva 
-> RU: 4702132
+-Trabalho acadêmico da disciplina **Arquitetura e Desenvolvimento de API**  
+- Aluno: Lucas dos Santos Silva 
+- RU: 4702132
 
 ---
 
